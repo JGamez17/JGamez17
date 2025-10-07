@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A Technical Support and QA Engineer from New York learning every day.
+  A Software Engineer from New York learning every day.
 </p>
 
 <p align='center'>
