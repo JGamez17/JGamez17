@@ -21,7 +21,7 @@
 
 ### 👩🏽‍💻 About Me
 
-I'm a full-stack engineer with 5+ years at **Apple** across QA Engineering and Technical Expert roles, now building production-grade web applications and actively pursuing engineering roles.
+I'm a full-stack engineer with 5+ years at **Apple, Inc.** across QA Engineering and Technical Expert roles, now building production-grade web applications and actively pursuing engineering roles.
 
 I hold a **Full Stack Web Development Certificate from Flatiron School** and love working at the intersection of clean UI, reliable systems, and thoughtful user experience. When I'm not shipping code, I'm behind a camera 📷.
 
