@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Jess 👋🏽</h1>
 
 <p align="center">
-  <strong>Full-Stack Engineer · QA Specialist · Innovator</strong><br/>
+  <strong>Full-Stack Engineer · QA Specialist · Photographer</strong><br/>
   New York, NY &nbsp;|&nbsp; Open to Full-Time Opportunities
 </p>
 
@@ -23,7 +23,7 @@
 
 I'm a full-stack engineer with 5+ years at **Apple** across QA Engineering and Technical Expert roles, now building production-grade web applications and actively pursuing engineering roles.
 
-I hold a **Full Stack Web Development Certificate from Flatiron School** and love working at the intersection of clean UI, reliable systems, and thoughtful user experience. When I'm not shipping code, I'm behind a camera 📷. 
+I hold a **Full Stack Web Development Certificate from Flatiron School** and love working at the intersection of clean UI, reliable systems, and thoughtful user experience. When I'm not shipping code, I'm behind a camera 📷.
 
 ---
 
@@ -32,8 +32,8 @@ I hold a **Full Stack Web Development Certificate from Flatiron School** and lov
 | Project | Stack | Live |
 |---|---|---|
 | **[Leica Gallery](https://github.com/JGamez17/Leica-Gallery)** — Full-stack photo gallery with Cloudinary image storage, Prisma ORM, and Framer Motion animations | Next.js 15 · TypeScript · Tailwind · Cloudinary · PostgreSQL | [▶ Live](https://leica-gallery-4qm8.vercel.app) |
-| **[TMDB Movie Discovery](https://github.com/JGamez17/tmdb-movie-app)** — Movie search app with Jest + React Testing Library test suite and SWR data fetching | Next.js 15 · TypeScript · Jest · RTL · SWR | [▶ Live](https://portfolio-timeline-jgamez17s-projects.vercel.app) |
-| **[PlayGuard](https://github.com/JGamez17/age-rating-advisor)** — Age rating advisor mobile app with Firebase auth and a Next.js marketing landing page | React Native · Expo · Firebase · Next.js | [▶ Live](https://portfolio-timeline-jgamez17s-projects.vercel.app) |
+| **[TMDB Movie Discovery](https://github.com/JGamez17/tmdb-movie-app)** — Movie search app with Jest + React Testing Library test suite and SWR data fetching | Next.js 15 · TypeScript · Jest · RTL · SWR | [📂 Repo](https://github.com/JGamez17/tmdb-movie-app) |
+| **[PlayGuard](https://github.com/JGamez17/age-rating-advisor)** — Age rating advisor mobile app with Firebase auth and a Next.js marketing landing page | React Native · Expo · Firebase · Next.js | [▶ Live](https://age-rating-advisor.vercel.app) |
 
 ---
 
